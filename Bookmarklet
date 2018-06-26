@@ -54,7 +54,7 @@ document.getElementById('chbxsameaspermittee').checked=true;
 
 /*Collection Date*/ 
 
-document.getElementById('txtcollectiondate').value = '6/26/18'; 
+document.getElementById('txtcollectiondate').value = '6-26-18'; 
 
  
 
