@@ -58,7 +58,7 @@ document.getElementById('txtcollectiondate').value = '6/26/18';
 
  
 
-document.getElementById('txtcollectorfullname').value = 'Jenny'; 
+document.getElementById('txtcollectorfullname').value = 'Ben'; 
 
  
 
